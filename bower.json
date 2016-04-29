@@ -22,7 +22,7 @@
   ],
   "dependencies": {
     "angular": ">=1.2.14",
-    "moment": "~2.10.6",
+    "moment": "~2.13.0",
     "moment-timezone": "~0.4.1"
   },
   "devDependencies": {
